@@ -1,9 +1,21 @@
 body{
     background-color: #e5e5e5;
 }
+/* .Food-network{
+    display: flex;
+} */
 .Food-network-div-1{
     font-family: 'Mochiy Pop One', sans-serif;
     font-family: 'Poppins', sans-serif;
-    size: 60px;
-    height: 78px;
+    /* size: 60px;
+    line-height: 78px; */
+    margin-top: 262px;
+    margin-left: 100px;
+    position:absolute;
+    width: 623px;
+    height: 234px;
+
+}
+.Food-network-div-1 span{
+    color: rgb(247, 164, 9);
 }
