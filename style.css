@@ -1,14 +1,14 @@
 /* body{
     background-color: #e5e5e5;
 } */
+/* img{
+    max-width: 100%;
+} */
 .Food-network{
     width: auto;
     display: flex;
-
 }
 .Food-network-child-div-1{
-    /* font-family: 'Mochiy Pop One', sans-serif;
-    font-family: 'Poppins', sans-serif; */
     font-family: 'Mochiy Pop One', sans-serif;
     font-family: 'Montagu Slab', serif;
     font-family: 'Montserrat', sans-serif;
@@ -16,11 +16,9 @@
     font-weight: 700;
     margin-top: 180px;
     margin-left: 120px;
-    /* width: 623px;
-    height: 234px; */
     font-size: 30px;
     line-height: 130%;
-    opacity: .7;
+    color: #575757;
 
 }
 .Food-network-child-div-1 span{
@@ -36,14 +34,30 @@
     line-height: 110%;
     opacity: .6;
 }
-.Food-network-div-2{
+.Food-network-div-2 img{
     width: 792px;
     height: 843.96px;
     margin-right: 40px;
 }
+.Food-network-child-div-3{
+    margin-left: 120px;
+}
 .click-button-1{
     text-decoration: none;
-    width: 192px;
-    height: 68px;
-    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%)
+    background-image: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%) ;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 25px;
+    line-height: 80px;
+}
+.About-me{
+    background-color:rgba(252, 143, 73, 0.1);
+    height: 600px;
+    width: auto;
+}
+.About-me-div-1 img{
+    width: 338px;
+    height: 536px;
+    padding-left: 199px;
+    padding-top: 64px;
 }
