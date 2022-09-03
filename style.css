@@ -127,4 +127,63 @@
     padding-left: 367px;
     padding-right: 367px;
 }
+.Social-media{
+    margin-top: 100px;
+    margin-right: 101px;
+    margin-left: 100px;
+    margin-bottom: 92px;
+    width: 1239px;
+    height: 226px;
+    box-shadow: 5px 5px 10px 5px gray;
+}
+.Social-media-div{
+    display: flex;
+    width: 909px;
+    height: 98px;
+    padding: 64px 165px;
+}
+.youtube{
+    width: 350px;
+    height: 98px;
+    margin-right: 30px;
+}
+.youtube h1{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+}
+.youtube p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.instragram{
+    width: 350px;
+    height: 98px;
+    margin-right: 30px;
+}
+.instragram h1{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+}
+.instragram p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.dribble-shot{
+    width: 350px;
+    height: 98px;
+}
+.dribble-shot h1{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+}
+.dribble-shot p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
 
