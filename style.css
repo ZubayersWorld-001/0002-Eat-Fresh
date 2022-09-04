@@ -1,9 +1,3 @@
-/* body{
-    background-color: #e5e5e5;
-} */
-/* img{
-    max-width: 100%;
-} */
 *{
     margin: 0;
     padding: 0;
@@ -270,7 +264,6 @@
     margin-left: 647px;
     padding-top: 37px;
     color: #575757;
-    /* font-size: 30px; */
     line-height: 35.16px;
 }
 .Footer-div-1 span{
