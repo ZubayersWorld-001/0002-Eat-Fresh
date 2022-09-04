@@ -109,6 +109,7 @@
 }
 .My-recipies{
     padding-top: 72px;
+    padding-bottom: 38px;
 }
 .My-recipies-div-1{
     text-align: center;
@@ -127,6 +128,40 @@
     padding-left: 367px;
     padding-right: 367px;
 }
+.Recipies-title{
+    width: 1240px;
+    height: 562px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #e5e5e5;
+}
+.Recipies-title-div-1{
+    width: 610px;
+    height: 562px;
+    background-color: white;
+}
+.Recipies-title-child-div-2 h1{
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 40px;
+}
+.Recipies-title-child-div-1 img{
+    width: 550px;
+    height: 308px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.Recipies-title-child-div-2{
+    width: 542px;
+    height: 134px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 38px;
+    margin-bottom: 68px;
+}
+
+
 .Social-media{
     margin-top: 100px;
     margin-right: 101px;
